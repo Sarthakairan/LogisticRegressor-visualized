@@ -1,2 +1,2 @@
 # LogisticRegressor-visualized
-Link to youtube for woring video - https://www.youtube.com/watch?v=icjAdyjcL0M
+Link to youtube of working - https://www.youtube.com/watch?v=icjAdyjcL0M
