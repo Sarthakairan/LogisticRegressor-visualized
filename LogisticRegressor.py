@@ -13,11 +13,6 @@ def final_variables(n_pts,sd1,sd2,iterations,alpha):
         return 1 / (1 + np.exp(-score))
 
 
-    #def calculate_error(line_parameters, points, y):
-        #n = points.shape[0]
-       # p  = sigmoid(points * line_parameters)
-       # cross_entropy = -(1 / n) * (np.log(p).T * y + np.log(1 - p).T * (1 - y))
-       # return cross_entropy
 
 
     def gradient_descent(line_parameters, points, y, alpha):
